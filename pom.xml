@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.169.7.243:8081/repository/Mithun-Release/</url>
+	      <url>http://18.139.227.190:8081/repository/maven-myntra-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.169.7.243:8081/repository/Mithun-Snapshot/</url>
+	      <url>http://18.139.227.190:8081/repository/Maven-myntra-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
